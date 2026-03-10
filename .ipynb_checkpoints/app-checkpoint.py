@@ -10,6 +10,7 @@ from lime.lime_text import LimeTextExplainer
 # Download nltk data
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
 
 st.set_page_config(page_title="Spam Detector", page_icon="📩")
 
