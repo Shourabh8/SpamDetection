@@ -191,22 +191,21 @@ Possible upgrades for the project:
 
 # 📸 Application Screenshot
 Example:
-
-```
+``
  ### Prediction Interface
 <p align="center">
   <img src="images/app_ui.png" width="800">
 </p>
+
 ### Spam Probability Meter
 <p align="center">
   <img src="images/Prediction_output.png" width="800">
 </p>
+
 ### LIME Explanation Graph
 <p align="center">
   <img src="images/Lime_output.png" width="800">
 </p>
-```
-
 ---
 
 # 👨‍💻 Author
